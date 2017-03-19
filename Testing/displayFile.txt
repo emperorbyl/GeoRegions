@@ -1,0 +1,3 @@
+        32  World, population=484600305, area=5.101e+008, density=0.95001
+    35  England, population=54786300, area=130279, density=420.531
+    36  Taiwan, population=23519518, area=36193, density=649.836
